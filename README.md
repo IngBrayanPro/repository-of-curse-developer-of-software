@@ -1,5 +1,5 @@
 # desarrollo de software 
-# se presentan 4 guias en este repositorio dode cada una de ellas van  estar repartidas en  carpetas de la siguiente manera: 
+# se presentan 4 guias en este repositorio donde cada una de ellas van  estar repartidas en  carpetas de la siguiente manera: 
 
 +desarollo de software 
 
